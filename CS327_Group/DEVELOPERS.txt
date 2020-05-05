@@ -1,0 +1,33 @@
+//authored by Kenyon
+//Funntion used to pass over lines with an initial comment
+int isComment(char* s){
+
+//authored by Randy
+// place token to find out if its in array
+// use this to also place values in linked-card struct
+int inArray(char * s){
+
+//authored by Kenyon
+// collects vales for tableau
+int whatsPresent(char* s){
+
+//authored by Kenyon
+//used to check the ordering of the foundation; grabbing the second char in string
+//should be clubs(c), diamonds(d), hearts(h), spades(s),
+// fCis the foundation count should end at 4, c is input character
+int fCount(int fC, char* s) {
+
+//authored by Kenyon
+//used to find the number of waste cards
+void limitNumber(char* s){
+
+//authored by Kenyon
+//Trying to check the correct ordering of keywords.
+int keywordErr(int v){
+
+//authored by Kenyon
+//method used to output 
+void finish(){
+
+//authored by Kenyon
+int main(int argc, const char* argv[]){
